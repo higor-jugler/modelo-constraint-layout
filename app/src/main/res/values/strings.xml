@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayout - Coffee</string>
+    <string name="text_title">Cappuccino</string>
+    <string name="text_time">15 minutos</string>
+    <string name="text_info_coffe">Uma simples e perfeita dose de espresso misturado com leite fresco e chocolate fazem esta bebida deliciosa.</string>
+    <string name="text_ingredients">Igredientes</string>
+    <string name="text_content_01">1 dose espresso</string>
+    <string name="text_content_02">100ml leite</string>
+    <string name="text_content_03">1 colher de chocolate em pó</string>
+</resources>
